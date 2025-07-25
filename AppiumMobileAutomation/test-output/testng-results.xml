@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T15:00:02 IST" name="Default suite" finished-at="2023-04-28T15:00:37 IST" duration-ms="35285">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T15:00:02 IST" name="Default test" finished-at="2023-04-28T15:00:37 IST" duration-ms="35285">
+      <class name="org.charter.TC02_ThirdPartyApps_RealMeX3">
+        <test-method is-config="true" signature="appiumConfiguration()[pri:0, instance:org.charter.TC02_ThirdPartyApps_RealMeX3@53ce1329]" started-at="2023-04-28T15:00:02 IST" name="appiumConfiguration" finished-at="2023-04-28T15:00:25 IST" duration-ms="22941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumConfiguration -->
+        <test-method signature="playStoreApp()[pri:0, instance:org.charter.TC02_ThirdPartyApps_RealMeX3@53ce1329]" started-at="2023-04-28T15:00:25 IST" name="playStoreApp" finished-at="2023-04-28T15:00:36 IST" duration-ms="10999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playStoreApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.charter.TC02_ThirdPartyApps_RealMeX3@53ce1329]" started-at="2023-04-28T15:00:36 IST" name="tearDown" finished-at="2023-04-28T15:00:37 IST" duration-ms="1302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.charter.TC02_ThirdPartyApps_RealMeX3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
